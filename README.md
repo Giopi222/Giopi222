@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Giopi222
+- 👋 Hi, I’m Giovanni, a 22 student from Milan
 - 👀 I’m interested in Finance, Statistics, AI and Data Science
 - 🌱 I’m currently learning Data Science and Business Analytics
 - 📫 How to reach me: giando.piva@gmail.com
