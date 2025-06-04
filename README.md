@@ -1,6 +1,7 @@
 - 👋 Hi, I’m Giovanni, a 22 student from Milan
-- 👀 I’m interested in Finance, Statistics, AI and Data Science
+- 👀 I’m interested in Finance, Mathematics and AI 
 - 🌱 I’m currently studying Data Science and Business Analytics
+- 🎸 I'm also a guitarist and a Chess player
 - 📫 How to reach me: giando.piva@gmail.com
 
 <!---
